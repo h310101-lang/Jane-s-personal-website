@@ -48,7 +48,7 @@
       "category": "TRAVEL",
       "title": "日本超好玩",
       "date": "2026.03.05",
-      "image": "/images/post-001-cover.png",
+      "image": "./images/post-001-cover.png",
       "excerpt": "每天都去不同地方和吃不同食物，讓我體驗到日本的文化和食物，並了解當地的人文風情。",
       "content": [
         "每天都去不同地方和吃不同食物，讓我體驗到日本的文化和食物，並了解當地的人文風情。今天來分享我去的地方和吃到的美食。",
